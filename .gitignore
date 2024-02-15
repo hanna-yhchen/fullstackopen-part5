@@ -1,0 +1,5 @@
+node_modules/
+coverage/
+rest-client/
+.env
+.env.test
